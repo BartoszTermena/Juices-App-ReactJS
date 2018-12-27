@@ -1,7 +1,7 @@
 <h2 align="center">Juices App</h2>
 <p align="center">
 
-<img  src="/screen_record_6.gif?raw=true" width="700px">
+<img  src="/screen_record_6.gif?raw=true" width="800px">
 </p>
 
 
